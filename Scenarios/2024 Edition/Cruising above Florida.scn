@@ -1,7 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Cruising above Florida</h1>
-<p>A Glider in atmospheric flight across Florida, showing the new high
-resolution surface textures to their best advantage.</p>
+<body style="font-family: Meiryo;">
+<h1>フロリダ上空</h1>
+<p>デルタグライダーがフロリダ上空を飛行中です。新しく実装された高解像度テクスチャがよく見えます。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

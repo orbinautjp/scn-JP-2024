@@ -1,7 +1,10 @@
 BEGIN_HYPERDESC
-<h1>City lights at night</h1>
-<p>Improved rendering of city lights: Flying over Tampa/Florida at night.</p>
-<p>Make sure you have enabled the <i>Planet night lights</i> option in the Launchpad <i>Visual effects</i> tab.</p>
+<body style="font-family: Meiryo;">
+<h1>夜景と街明かり</h1>
+<p>街明かりの表現が改善されました。フロリダ・タンパの夜空を飛んでみましょう。</p>
+<p>Launchpadの<b>Options</b>→<b>Visual effects</b>を開く。<br>
+<b>Planet night lights</b>にチェックを入れてください。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

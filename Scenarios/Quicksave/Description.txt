@@ -1,4 +1,6 @@
 BEGIN_HYPERDESC
-<h1>Quicksave scenarios</h1>
-<p>This folder contains simulation states which have been saved with the Quicksave (Ctrl-S) command.</p>
+<body style="font-family: Meiryo;">
+<h1>クイックセーブ</h1>
+<p>Ctrl+Sでクイックセーブすると、このフォルダに保存されます。</p>
+</body>
 END_HYPERDESC

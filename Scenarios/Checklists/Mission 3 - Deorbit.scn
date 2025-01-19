@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default\Checklists\Checklist3,Checklist3
+Default_JP\Checklists\Checklist3,Checklist3
 END_URLDESC
 BEGIN_DESC
 Mission 3: De-orbit from Mir
@@ -15,7 +15,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.8817581169
-  Help Default\Checklists\Checklist3,Checklist3
+  Help Default_JP\Checklists\Checklist3,Checklist3
 END_ENVIRONMENT
 
 BEGIN_FOCUS

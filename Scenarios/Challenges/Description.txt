@@ -1,10 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Orbiter Challenges</h1>
+<body style="font-family: Meiryo;">
+<h1>チャレンジ</h1>
 
-<p>A set of flight missions that will challenge your planning and navigation
-skills. You will receive a score depending on how well you completed the
-mission within the specified parameters.</p>
+<p>これらのミッションに挑戦して、自分の能力（軌道を設計する、フライトを実行する）を試してみましょう。チャレンジの達成度に応じて、スコアが表示されます。</p>
 
-<p>Beat yourself to the highscore, or compare your performance with other
-users!</p>
+<p>自分のハイスコアを更新したり、ほかのプレイヤーとスコアを競ってみましょう。</p>
+</body>
 END_HYPERDESC

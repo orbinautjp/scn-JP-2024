@@ -1,11 +1,11 @@
 BEGIN_URLDESC
-Default\Alps2016,Index
+Default_JP\Alps2016,Index
 END_URLDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.4209378035
-  Help Default\Alps2016,Index
+  Help Default_JP\Alps2016,Index
 END_ENVIRONMENT
 
 BEGIN_FOCUS

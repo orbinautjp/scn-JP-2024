@@ -1,4 +1,6 @@
 BEGIN_HYPERDESC
-<h1>Launch sites and spaceports</h1>
-<p>A list of scenarios introducing some of the Launch sites and landing facilities supported by the Orbiter default installation. More can be added with 3rd party addons.</p>
+<body style="font-family: Meiryo;">
+<h1>打ち上げ基地と宇宙港</h1>
+<p>Orbiterにデフォルトで存在する打ち上げ基地と着陸施設です。MODで追加することができます。</p>
+</body>
 END_HYPERDESC

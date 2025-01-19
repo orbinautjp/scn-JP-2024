@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default\Checklists\Checklist2,Checklist2
+Default_JP\Checklists\Checklist2,Checklist2
 END_URLDESC
 BEGIN_DESC
 Mission 2: ISS to Mir transfer
@@ -18,7 +18,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.8051552166
-  Help Default\Checklists\Checklist2,Checklist2
+  Help Default_JP\Checklists\Checklist2,Checklist2
 END_ENVIRONMENT
 
 BEGIN_FOCUS

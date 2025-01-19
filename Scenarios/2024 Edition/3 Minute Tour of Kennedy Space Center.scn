@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default\KSCtour2016,Index
+Default_JP\KSCtour2016
 END_URLDESC
 BEGIN_DESC
 Orbiter 2024: A quick aerial tour of Kennedy Space Center
@@ -13,7 +13,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57438.6686216879
-  Help Default\KSCtour2016,Index
+  Help Default_JP\KSCtour2016,Index
 END_ENVIRONMENT
 
 BEGIN_FOCUS

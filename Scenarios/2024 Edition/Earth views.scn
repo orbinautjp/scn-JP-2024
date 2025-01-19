@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default\Earthview2016,Index
+Default_JP\Earthview2016
 END_URLDESC
 BEGIN_DESC
 Earth views 2016
@@ -19,7 +19,7 @@ BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57451.2987058334
   Script earthview2016
-  Help Default\Earthview2016,Index
+  Help Default_JP\Earthview2016,Index
 END_ENVIRONMENT
 
 BEGIN_FOCUS

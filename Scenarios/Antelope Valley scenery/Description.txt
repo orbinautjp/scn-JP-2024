@@ -1,4 +1,7 @@
 BEGIN_HYPERDESC
-<h1>Antelope Valley scenery</h1>
-<p>A few scenarios showcasing the launch and landing sites supported by the Antelope Valley addon scenery pack.</p>
+<body style="font-family: Meiryo;">
+<h1>アンテロープ・バレー</h1>
+<p>高解像度テクスチャの<b>antelope_scn.zip</b>が必要です。</p>
+<p>アンテロープ・バレーの打ち上げ基地などを紹介するシナリオ集です。</p>
+</body>
 END_HYPERDESC

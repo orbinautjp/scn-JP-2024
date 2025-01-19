@@ -1,4 +1,6 @@
 BEGIN_HYPERDESC
-<h1>Quadcopter scenarios</h1>
-<p>This folder contains scenarios with the Quadcopter vessel.</p>
+<body style="font-family: Meiryo;">
+<h1>クワッドコプター</h1>
+<p>Orbiter 2024ではクワッドコプターが追加されています。</p>
+</body>
 END_HYPERDESC

@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default\Checklists\Quickstart,Quickstart
+Default_JP\Checklists\Quickstart,Quickstart
 END_URLDESC
 BEGIN_DESC
 Quickstart
@@ -17,7 +17,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 55269.6701854908
-  Help Default\Checklists\Quickstart,Quickstart
+  Help Default_JP\Checklists\Quickstart,Quickstart
 END_ENVIRONMENT
 
 BEGIN_FOCUS

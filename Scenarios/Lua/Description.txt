@@ -1,0 +1,7 @@
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>Luaスクリプト</h1>
+<p>Orbiterの宇宙船は通常DLLファイルとして作成されますが、Luaスクリプトで代用できます。</p>
+<p>このフォルダで登場する宇宙船はすべてLuaスクリプトとして作成されています。</p>
+</body>
+END_HYPERDESC

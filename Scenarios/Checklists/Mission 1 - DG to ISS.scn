@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default\Checklists\Checklist1,Checklist1
+Default_JP\Checklists\Checklist1,Checklist1
 END_URLDESC
 BEGIN_DESC
 Mission 1: Delta-glider to ISS
@@ -16,7 +16,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.5619320174
-  Help Default\Checklists\Checklist1,Checklist1
+  Help Default_JP\Checklists\Checklist1,Checklist1
 END_ENVIRONMENT
 
 BEGIN_FOCUS

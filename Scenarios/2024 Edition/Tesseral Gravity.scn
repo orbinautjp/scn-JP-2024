@@ -1,6 +1,11 @@
-BEGIN_DESC
-Enable non-spherical gravity and watch the Moon's MASCONS perturb the 16x16km orbit of a Deltaglder. Don't stay this low for too long...
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>新しい重力場モデル</h1>
+<p>Orbiter 2024では、緯度経度の両方を参照する重力場モデルを扱えるようになりました。</p>
+<p>Options→Physics settingsでNonspherical gravity sourcesを有効にすると、月のMASCON（質量集中部における重力の変化）によって、デルタグライダーの軌道が変化します。</p>
+<p>現在の軌道高度は16kmですが、この低軌道に長居しないほうがいいかもしれません……</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

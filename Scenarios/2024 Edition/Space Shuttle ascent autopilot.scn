@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default\ShuttleAscentAp,Index
+Default_JP\ShuttleAscentAp
 END_URLDESC
 BEGIN_DESC
 Space Shuttle ascent autopilot
@@ -16,7 +16,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57462.4913873890
-  Help Default\ShuttleAscentAp,Index
+  Help Default_JP\ShuttleAscentAp
 END_ENVIRONMENT
 
 BEGIN_FOCUS

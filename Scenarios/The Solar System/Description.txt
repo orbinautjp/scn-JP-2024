@@ -1,4 +1,6 @@
 BEGIN_HYPERDESC
-<h1>The Solar System</h1>
-<p>A tour of the solar system. Visit our home system's planets and moons.</p>
+<body style="font-family: Meiryo;">
+<h1>‘¾—zŒn</h1>
+<p>Orbiter‚Å‚í‚½‚µ‚½‚¿‚ÌŒÌ‹½A‘¾—zŒn‚Ì˜f¯E‰q¯‚ğŠÏŒõ‚µ‚Ü‚µ‚å‚¤B</p>
+</body>
 END_HYPERDESC
