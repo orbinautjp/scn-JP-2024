@@ -1,10 +1,10 @@
 BEGIN_HYPERDESC
-<h1>STS-125 finals at Edwards</h1>
-<p>Space Shuttle Atlantis returning from the last Hubble servicing mission to runway 22 at Edwards Air Force Base.</p>
-<p>The approach is from the east over the dry Rogers lakebed. Runway 22 is the marked paved runway.</p>
-<p>Approach heading is 240 deg (true north).</p>
-<p>Align with the runway and maintain an initial descent angle of 20 deg.</p>
-<p>Extend airbrakes [Ctrl-b]. Lower landing gear [g] about 10 seconds before touchdown. Flare before touchdown (pull up the nose) to reduce rate of descent.</p>
+<h1>STS-125 エドワーズ空軍基地最後の着陸</h1>
+<p>スペースシャトル・アトランティスが、最後のハッブル望遠鏡修理ミッションを終えて、エドワーズ空軍基地22番滑走路に帰還する。</p>
+<p>ロジャーズ乾湖を下に見つつ、東からアプローチする。番号が標識され、舗装されているのが22番滑走路。</p>
+<p>アプローチの方位角は240&deg;。（真北（しんぽく）を基準とする）</p>
+<p>針路を滑走路と一致させ、降下角20&deg;を維持する。</p>
+<p><kbd>Ctrl</kbd>+<kbd>B</kbd>でエアブレーキを展開する。タッチダウンの10秒前で<kbd>G</kbd>を押してランディングギアを降ろす。タッチダウンの直前で機首上げ（フレア）して、降下速度を緩める。</p>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
