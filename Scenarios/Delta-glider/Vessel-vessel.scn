@@ -1,11 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Delta-glider: Vessel-vessel</h1>
-<p>Two delta-gliders docked in orbit. The camera focus is on the PB shuttle in
-the background to provide an inertial frame of reference. Try the attitude
-controls on the glider to see how the body dynamics are affected by the
-"super-structure" assembly. For example, note how different roll and pitch
-moments behave. Or switch the camera focus to one of the gliders, then get the
-assembly to spin with a short hover thrust burst, and undock with Ctrl-D!</p>
+<body style="font-family: Meiryo;">
+<h1>2機の宇宙船</h1>
+<p>2機のデルタグライダーが、ドッキングしたまま軌道を周回しています。また、観測用カメラとしてPBシャトルが配置されています。</p>
+<p>グライダーのRCSを噴射して、結合した状態ではどのような影響があるか観察してみましょう。例えば、ロール・ピッチの反応は1機だけのときとは異なります。また、グライダーのホバーエンジンを点火して回転させてから、Ctrl+Dで切り離してみましょう。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

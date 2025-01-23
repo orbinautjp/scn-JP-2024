@@ -1,7 +1,11 @@
 BEGIN_HYPERDESC
-<h1>Orbiter Challenges: 3</h1>
-<p>This is the same as Challenge 2, but this time you need to consider plane alignments.
-Minimise fuel use.</p>
+<body style="font-family: Meiryo;">
+<h1>チャレンジ 3</h1>
+<p>
+  目標はチャレンジ2と同じだが、軌道面変更を考慮しなくてはならない。<br>
+  燃料消費を最小にせよ。
+</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

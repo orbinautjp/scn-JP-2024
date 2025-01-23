@@ -1,14 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Delta-glider: Venus takeoff</h1>
-<p>You have descended through the thick atmosphere of Venus, and set your glider down
-on the surface.</p>
-<p>Luckily, your ship is incredibly sturdy, and can withstand the atmospheric pressure.</p>
-<p>After admiring the view from the cockpit (an EVA would be unwise in this environment),
-you decide to take off again and head back.</p>
-<p>After igniting your engines, you discover a fatal flaw in your mission design:
-The enormous ambient atmospheric pressure overpowers your engines and prevents them from
-expelling any exhaust gases. You are stuck!</p>
-<p>Your only option at this point is to disable the complex flight model and cheat the laws of physics.</p>
+<body style="font-family: Meiryo;">
+<h1>金星からの離陸</h1>
+<p>金星からデルタグライダーを離陸させて、高気圧下での操縦を体験しましょう。</p>
+<p>注意：complex flight modelが有効になっていると、金星地表での高い気圧のためエンジンが機能しません。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

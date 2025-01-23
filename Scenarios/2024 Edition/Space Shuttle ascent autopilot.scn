@@ -16,7 +16,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57462.4913873890
-  Help Default_JP\ShuttleAscentAp
+  Help Default_JP\chm\ShuttleAscentAp,index
 END_ENVIRONMENT
 
 BEGIN_FOCUS

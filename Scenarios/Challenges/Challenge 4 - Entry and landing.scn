@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Orbiter Challenges: 4</h1>
-<p>Land safely at Kennedy Space Center without refueling.</p>
+<body style="font-family: Meiryo;">
+<h1>チャレンジ 4</h1>
+<p>燃料を補給せずにケネディ宇宙センターに着陸しよう。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

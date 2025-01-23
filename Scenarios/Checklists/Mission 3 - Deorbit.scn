@@ -1,21 +1,14 @@
-BEGIN_URLDESC
-Default_JP\Checklists\Checklist3,Checklist3
-END_URLDESC
-BEGIN_DESC
-Mission 3: De-orbit from Mir
-
-
-This mission completes your orbital roundtrip with a re-entry to return to Kennedy Space
-Center. 
-
-
-For instructions, launch the scenario, then open the Help window (Alt-F1).
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>チェックリスト 3 ミールから地上へ</h1>
+<p>ミールを離脱し、再突入してケネディ宇宙センターに帰還します。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51983.8817581169
-  Help Default_JP\Checklists\Checklist3,Checklist3
+  Help Default\Checklists\Checklist3,Checklist3
 END_ENVIRONMENT
 
 BEGIN_FOCUS

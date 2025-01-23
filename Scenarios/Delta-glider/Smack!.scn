@@ -1,7 +1,11 @@
 BEGIN_HYPERDESC
-<h1>Delta-glider: Smack!</h1>
-<p>Featuring the new vessel-vessel docking capabilities:
-Two delta-gliders about to make contact (rotating for added effect ;-)</p>
+<body style="font-family: Meiryo;">
+<h1>衝突</h1>
+<p>
+  宇宙船どうしのドッキングを紹介するシナリオです。<br>
+  2機のデルタグライダーが、回転しながら接触するところです。
+</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

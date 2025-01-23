@@ -13,7 +13,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 57438.6686216879
-  Help Default_JP\KSCtour2016,Index
+  Help Default_JP\chm\KSCtour2016,index
 END_ENVIRONMENT
 
 BEGIN_FOCUS

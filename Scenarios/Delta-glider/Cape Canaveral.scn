@@ -1,3 +1,6 @@
+BEGIN_URLDESC
+Default_JP\CapeCanaveral
+END_URLDESC
 BEGIN_HYPERDESC
 <h1>Delta-glider: Cape Canaveral</h1>
 <p>A Delta-glider, parked at the visitor parking lot of the Kennedy Space Center - ready for vertical takeoff.</p>
@@ -16,6 +19,7 @@ END_HYPERDESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD 51981.6008401528
+  Help Default_JP\chm\CapeCanaveral,CapeCanaveral
 END_ENVIRONMENT
 
 BEGIN_FOCUS

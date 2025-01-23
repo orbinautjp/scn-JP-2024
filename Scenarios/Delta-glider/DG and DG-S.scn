@@ -1,8 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Delta-glider: DG and DG-S</h1>
-<p>A standard DG Mk4 (left) and a scramjet DG-S (right) showing off their animations. Note the air intakes under the fuselage of the DG-S. Open the
-control panel (Ctrl-Space) to play with the various elements, or hop into
-the cockpit (F1) and use the mouse to operate the glider.</p>
+<body style="font-family: Meiryo;">
+<h1>DGとDG-S</h1>
+<p>通常のDG Mk4（左）と、スクラムジェット搭載型のDG-S（右）が、ラジエータなどを動作させています。DG-Sの下部にはエアインテークが存在するので区別できます。</p>
+<p>Ctrl+Spaceを押すとコントロールパネルが開き、各部位をそれぞれ操作できます。F1キーを押して、コクピット内部から操作することもできます。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

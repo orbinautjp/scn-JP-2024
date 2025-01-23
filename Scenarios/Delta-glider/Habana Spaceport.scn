@@ -1,9 +1,12 @@
 BEGIN_HYPERDESC
-<h1>Delta-glider: Habana Spaceport</h1>
-<p>Launch the glider from Habana spaceport at dusk.</p>
-<p>The ship is too heavy for a vertical liftoff with its hover engines. (Try it!)</p>
-<p>Instead, taxi to the runway and use main engines for a horizontal takeoff.</p>
-<p>This DG-S is equipped with scramjet engines which can be operated at airspeeds between Mach 3-8.</p>
+<body style="font-family: Meiryo;">
+<h1>ハバナ宇宙港</h1>
+<p>
+  夕暮れのハバナから、デルタグライダーを打ち上げましょう。<br>
+  機体重量が重すぎるため、ホバーエンジンでは離陸できません。滑走路までタキシングしてメインエンジンで離陸します。
+</p>
+<p>DG-Sにはスクラムジェットエンジンが搭載されています。マッハ3以上、マッハ8以下の範囲で使用できます。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

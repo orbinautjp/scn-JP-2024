@@ -1,10 +1,12 @@
 BEGIN_HYPERDESC
-<h1>Delta-glider: Docked at ISS</h1>
-<p>Start in a glider docked to the International Space Station.</p>
-<p>Undock with Ctrl-D. Use the RCS in linear mode to back away from the station.</p>
-<p>Get some docking practice by targeting a different docking port on the station and flying an approach to the dock.</p>
-<p>Plan a return to a surface base and deorbit with a retrograde burn.</p>
-<p>Current location: above central China.</p>
+<body style="font-family: Meiryo;">
+<h1>ISSにドッキング中</h1>
+<p>デルタグライダーは国際宇宙ステーションにドッキング中です。</p>
+<p>キーボードでCtrl+Dを同時押しするとドッキングが解除されます。RCSをLIN（リニア）モードにしてISSから離れてください。</p>
+<p>練習として、他のドッキングポートをターゲットして接近してみましょう。</p>
+<p>また、軌道離脱噴射を実行して地上基地に戻るにはどうすればよいか考えてみましょう。</p>
+<p>現在の位置は中国大陸の中央地域上空です。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

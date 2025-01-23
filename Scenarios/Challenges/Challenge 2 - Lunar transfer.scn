@@ -1,5 +1,5 @@
 BEGIN_URLDESC
-Default_JP\Challenges\Challenge2,Index
+Default_JP\Challenges\Challenge2
 END_URLDESC
 BEGIN_DESC
 Orbiter Challenges: 2
@@ -15,7 +15,7 @@ END_DESC
 BEGIN_ENVIRONMENT
   System Sol
   Date MJD ;
-  Help Default_JP\Challenges\Challenge2,Index
+  Help Default_JP\chm\Challenge2,Index
   Script challenges/challenge2
 END_ENVIRONMENT
 

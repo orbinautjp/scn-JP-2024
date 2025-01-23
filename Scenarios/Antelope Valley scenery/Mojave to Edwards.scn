@@ -1,8 +1,10 @@
 BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
 <h1>モハーヴェからエドワーズへ</h1>
 <p>このシナリオは自動再生されます。<br>
-モハーヴェ宇宙港から、近隣のエドワーズ空軍基地への短いフライト。</p>
+モハーヴェ宇宙港から、近隣のエドワーズ空軍基地への短いフライトです。</p>
 <p>アンテロープ・バレーのテクスチャパックが必要です。<a href="http://orbit.medphys.ucl.ac.uk" target="_blank">Orbiter公式サイト</a>からダウンロードしてください。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

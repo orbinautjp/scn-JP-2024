@@ -1,7 +1,10 @@
 BEGIN_HYPERDESC
-<h1>Delta-glider: Control surfaces</h1>
-<p>Use the joystick or keyboard cursor controls to see the Glider's elevons and rudder at work.</p>
-<p>The airbrake can be deployed with B [+ B] and retracted with Ctrl-B [+ Ctrl-B].</p>
+<body style="font-family: Meiryo;">
+<h1>動翼を動かす</h1>
+<p>ジョイスティックもしくはテンキーを使って、エルロンやラダーを動かしてみましょう。</p>
+<p>キーボード<kbd>B</kbd>でエアブレーキを半開、もう一度<kbd>B</kbd>で全開。<br>
+<kbd>Ctrl</kbd>+<kbd>B</kbd>でエアブレーキを格納します。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
