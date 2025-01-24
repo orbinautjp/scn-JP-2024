@@ -1,16 +1,11 @@
 BEGIN_HYPERDESC
-<h1>HST servicing mission 1 (STS-61)</h1>
-<p>After discovering major problems with Hubble's primary mirror, mission STS-61
-is scheduled to capture the telescope and install the COSTAR corrective optics
-package and the Wide Field and Planetary Camera 2 (WFPC2).</p>
-<p>In this scenario, the Shuttle orbiter has already been maneuvered close to
-Hubble's position. Move Atlantis into position using linear RCS thrusters, and
-grapple with the manipulator arm. Use the Manned Maneuvering Unit (MMU) for an
-EVA to perform the instrument replacements. (Keyboard: E)</p>
-<p>In a departure from the historic mission, you can also try to return Hubble to
-Earth. Switch focus to the HST to retract solar arrays, antennae and telescope hatch,
-then stow the telescope in the Shuttle cargo bay. Return your valuable payload back
-to KSC.</p>
+<body style="font-family: Meiryo;">
+<h1>STS-61 ハッブル望遠鏡の回収</h1>
+<p>ハッブル望遠鏡の主鏡に重大な問題が発見されたため、望遠鏡を回収しCOSTAR（球面収差補正装置）とWFPC2（広視野カメラ）を取り付けるため、STS-61ミッションが計画された。</p>
+<p>このシナリオでは、シャトル・オービターはすでにハッブルの近くに移動している。RCSを噴射してアトランティスをHSTに接近させ、ロボットアームで把持。
+MMU（有人飛行ユニット）によるEVAで機器の取替作業を遂行する。（キーボードE）</p>
+<p>史実ミッションからは逸脱するが、ハッブル望遠鏡を地球に持ち帰ることもできる。F3キーでHSTを選択し、太陽電池パネル、アンテナ、望遠鏡のハッチを格納したら、シャトルの貨物ベイにHSTを搭載する。貴重な積荷をKSCに持って帰ろう。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

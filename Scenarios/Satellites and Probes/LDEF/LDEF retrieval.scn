@@ -1,14 +1,10 @@
 BEGIN_HYPERDESC
-<h1>LDEF retrieval</h1>
-<p>Originally, the retrieval of the LDEF (Long Duration Exposure Facility) from orbit
-was planned for March 19, 1985. However, the schedule slipped, also because of the
-Challenger disaster. It was finally returned from orbit by Shuttle mission STS-32 on
-January 12, 1990, shortly before it would have burned up in the atmosphere.</p>
-<p>Your mission: Launch the Space Shuttle from Kennedy Space Center pad L39A to
-retrieve the LDEF satellite from orbit.</p>
-<p>Use the ascent autopilot MFD mode to program launch azimuth 90 (due east) and orbit
-altitude 330 km. The LDEF passes over Cape Canaveral in its next orbit, so your launch
-window is open.</p>
+<body style="font-family: Meiryo;">
+<h1>LDEFを回収する</h1>
+<p>当初の予定では、LDEFは1985年3月19日に回収されることになっていました。しかし、チャレンジャーの事故によって延期され、最終的に1990年1月12日のSTS-32ミッションで回収されました。もう少し回収が遅ければ、大気圏突入で燃え尽きるところでした。</p>
+<p>このミッションでは、ケネディ宇宙センターのLC39A発射台からシャトルを打ち上げて、軌道上からLDEF衛星を回収します。</p>
+<p>Ascent AP MFDのオートパイロットで、方位090（真東）、軌道高度330kmに打ち上げてください。LDEFは次の軌道でケープ・カナヴェラルの上空を通過するため、今が打ち上げに適したタイミング（打ち上げ窓）です。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

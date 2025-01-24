@@ -1,11 +1,10 @@
 BEGIN_HYPERDESC
-<h1>LDEF deployment</h1>
-<p>Deploy the LDEF (Long Duration Exposure Facility) platform in orbit using
-the Shuttle's remote manipulator arm.
-Press Ctrl-Space and pick "RMS operation" to bring up the dialog for controlling
-the arm.</p>
-<p>After releasing the satellite, return the Shuttle back to Kennedy
-Space Center.</p>
+<body style="font-family: Meiryo;">
+<h1>LDEFを放出する</h1>
+<p>スペースシャトルのロボットアームを操作して、LDEF（Long Duration Exposure Facility = 長期暴露実験施設）プラットフォームを宇宙空間に放出してください。<br>
+Ctrl+スペースキーを押して、RMS operationをクリックするとロボットアームの操作ダイアログが開きます。</p>
+<p>衛星を放出したら、ケネディ宇宙センターにシャトルを帰還させてください。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

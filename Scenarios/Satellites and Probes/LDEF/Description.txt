@@ -1,13 +1,11 @@
 BEGIN_HYPERDESC
-<h1>Long Duration Exposure Facility (LDEF)</h1>
-<p>The LDEF was a large orbital material research platform containing
-multiple experiments to test the effect of the outer space environment on
-electronic systems, materials and spore survival.</p>
-<p>Deployed in orbit on April 7, 1984 by Shuttle Challenger and intended for
-retrieval after one year, the LDEF satellite was stranded
-in orbit for six years after the Challenger accident. The crew of STS-32
-recovered the LDEF from its decaying orbit on January 11, 1990, two months
-before it would have re-entered the Earth's atmosphere and would have been 
-destroyed.</p>
-<p>LDEF mesh by Don Gallagher.</p>
+<body style="font-family: Meiryo;">
+<h1>LDEF（Long Duration Exposure Facility = 長期暴露実験施設）</h1>
+<p>LDEFは大型の軌道物質研究プラットフォームであり、電子機器やさまざまな物質、そして種子の発芽に対する外宇宙環境の影響を試験するために使用されました。</p>
+<p>1984年4月7日、スペースシャトル・チャレンジャーによってLDEF衛星が打ち上げられました。
+当初は1年後に回収される予定でしたが、チャレンジャー爆発事故の影響を受けて、6年間宇宙に留まることになりました。<br>
+高度を下げつつあったLDEFは、1990年1月11日、STS-32ミッションで宇宙飛行士により回収されました。
+回収が2か月遅れていれば、大気圏に突入して破壊されてしまうところでした。</p>
+<p>LDEFの3Dモデルは、Don Gallagherによって制作されました。</p>
+</body>
 END_HYPERDESC

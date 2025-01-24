@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>HST animation</h1>
-<p>David Sundstrom's Hubble Space telescope unfolds its solar arrays.</p>
+<body style="font-family: Meiryo;">
+<h1>ハッブル望遠鏡のアニメーション</h1>
+<p>ハッブル宇宙望遠鏡（David Sundstrom制作）が、アンテナと太陽電池パネルを展開します。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
