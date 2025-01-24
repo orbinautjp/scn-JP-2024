@@ -1,8 +1,10 @@
-BEGIN_DESC
-Start in a glider docked to the International Space Station.
-
-Current location: above central China.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>ISSに停泊中</h1>
+<p>デルタグライダーが国際宇宙ステーションにドッキングしています。</p>
+<p>真下には、中国大陸の中央地域が見えます。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

@@ -1,6 +1,9 @@
-BEGIN_DESC
-Dione with Saturn in the background and an edge-on view of the ring system.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>ディオーネ</h1>
+<p>土星の衛星、ディオーネが登場します。背後には土星が見えます。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

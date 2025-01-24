@@ -1,6 +1,9 @@
-BEGIN_DESC
-Homeworld: The Blue Planet.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>’n‹…</h1>
+<p>Â‚¢˜f¯A‚í‚½‚µ‚½‚¿‚ÌŒÌ‹½‚Å‚·B</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

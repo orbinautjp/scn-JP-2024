@@ -1,4 +1,6 @@
 BEGIN_HYPERDESC
-<h1>Space Physics</h1>
-<p>A few scenarios demonstrating interesting physics phenomena in orbit.</p>
+<body style="font-family: Meiryo;">
+<h1>宇宙の物理現象</h1>
+<p>宇宙空間でのユニークな物理現象について紹介します。</p>
+</body>
 END_HYPERDESC

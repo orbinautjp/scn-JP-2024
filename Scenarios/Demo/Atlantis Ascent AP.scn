@@ -1,9 +1,9 @@
-BEGIN_DESC
-Current scenario state
-
-
-Contains the latest simulation state.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>アトランティス</h1>
+<p>スペースシャトル・アトランティスが、自動操縦で打ち上げられます。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

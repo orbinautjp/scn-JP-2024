@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Mojave Spaceport</h1>
-<p>Ready for takeoff on runway 26 at Mojave Air and Spaceport.</p>
+<body style="font-family: Meiryo;">
+<h1>モハーヴェ空港</h1>
+<p>モハーヴェ航空宇宙港の26滑走路でゲームを開始する。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

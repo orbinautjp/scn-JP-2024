@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Dragonfly: Station building</h1>
-<p>Assembling the components of a custom space station with the new Dragonfly class tug.</p>
+<body style="font-family: Meiryo;">
+<h1>宇宙ステーションを建設する</h1>
+<p>宇宙タグボートのドラゴンフライを操作して、宇宙ステーションを組み立ててみましょう。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

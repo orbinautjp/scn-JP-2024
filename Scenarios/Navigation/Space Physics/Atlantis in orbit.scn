@@ -1,10 +1,10 @@
 BEGIN_HYPERDESC
-<h1>Shuttle tidal force example</h1>
-<p>Watch Space Shuttle Atlantis stabilise its attitude in orbit under
-the influence of gravity gradient torque.</p>
-<p>Make sure that "gravity-gradient torque" is enabled in the Launchpad dialog.</p>
-<p>Time-accelerate up to 100x. It takes about a day to reach equilibrium
-(tail-down or head-down attitude).</p>
+<body style="font-family: Meiryo;">
+<h1>スペースシャトルと潮汐力</h1>
+<p>軌道上のスペースシャトルを観察してみましょう。放置しておくと、重力勾配トルクによって船体が回転し、最終的には決まった姿勢で落ち着くことがわかります。</p>
+<p><b>Options</b>→<b>Physics settings</b>を開いて、<b>Gravity-gradient torque</b>にチェックを入れてください。</p>
+<p>タイムワープを100倍に設定してください。安定した姿勢（船尾・船首のどちらかが下になる）になるまで約1日かかります。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

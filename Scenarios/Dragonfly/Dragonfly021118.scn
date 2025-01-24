@@ -1,6 +1,9 @@
-BEGIN_DESC
-This was compiled and created with 021118 + patch.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>ドラゴンフライ 021118</h1>
+<p>このシナリオは、Orbiterのバージョンが021118だった当時に製作されたものです。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

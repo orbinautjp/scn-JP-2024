@@ -1,6 +1,9 @@
-BEGIN_DESC
-Contains the latest simulation state.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>3Dコクピット</h1>
+<p>デルタグライダーの3Dコクピットです。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

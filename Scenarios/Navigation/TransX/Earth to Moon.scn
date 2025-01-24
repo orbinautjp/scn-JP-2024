@@ -1,6 +1,9 @@
-BEGIN_DESC
-Use the TransX to plan and execute maneuvers to take a Delta-Glider from Earth orbit to Lunar orbit.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>地球から月へ</h1>
+<p>TransXを使用して、地球周回軌道から月への遷移軌道を計画・実行しよう。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

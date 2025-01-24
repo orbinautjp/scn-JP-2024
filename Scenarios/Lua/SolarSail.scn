@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Solar sail</h1>
-<p>Solar sail. Please enable solar radiation pressure to use this scenario</p>
+<body style="font-family: Meiryo;">
+<h1>ソーラーセイル</h1>
+<p>ソーラーセイル（太陽帆）のテストシナリオです。太陽の輻射圧の影響がよくわかります。</p>
+<p><b>Parameters</b>タブを開いて、<b>Radiation pressure</b>にチェックを入れてください。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

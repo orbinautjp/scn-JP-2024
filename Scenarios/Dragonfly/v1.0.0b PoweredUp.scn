@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Dragonfly: Powered up</h1>
-<p>A fully powered-up and functional Dragonfly and a couple of docking modules for practice!</p>
+<body style="font-family: Meiryo;">
+<h1>システム起動完了</h1>
+<p>ドラゴンフライ宇宙船のシステムはオンラインになっています。練習として、周囲のモジュールとドッキングしてみましょう。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

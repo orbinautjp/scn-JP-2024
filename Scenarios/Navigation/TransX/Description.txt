@@ -1,7 +1,7 @@
 BEGIN_HYPERDESC
-<h1>TransX MFD mode</h1>
-<p>These scenarios demonstrate the use of the TransX interplanetary navigation
-MFD by Duncan Sharpe.</p>
-<p>Before launching one of these, make sure that the TransX plugin is activated under
-the Modules tab.</p>
+<body style="font-family: Meiryo;">
+<h1>TransX</h1>
+<p>これらのシナリオでは、Duncan Sharpeが作成した惑星間飛行ツール、TransXの使い方を紹介します。</p>
+<p>開始する前に、<b>Modules</b>タブを開いて<b>TransX</b>にチェックを入れてください。</p>
+</body>
 END_HYPERDESC

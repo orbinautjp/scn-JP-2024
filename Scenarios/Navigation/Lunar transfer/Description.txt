@@ -1,8 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Lunar transfer</h1>
-<p>Two scenarios representing snapshots of a lunar mission.</p>
-<p>The first scenario has a Shuttle-A in low Earth orbit, preparing for
-trans-lunar injection to set it on a transfer orbit to intercept the Moon.</p>
-<p>The second scenario shows the same vessel some time later, after the TLI burn
-has completed.</p>
+<body style="font-family: Meiryo;">
+<h1>月遷移軌道に乗る</h1>
+<p>2つのシナリオを例に、月ミッションについて紹介します。</p>
+<p>最初のシナリオではShuttle-A宇宙船が地球を低い高度の軌道で周回しており、月遷移軌道投入噴射を実行して月とランデブーできるようになっています。</p>
+<p>2つ目のシナリオでは、宇宙船はすでに噴射を完了して月遷移軌道に乗っています。</p>
+</body>
 END_HYPERDESC

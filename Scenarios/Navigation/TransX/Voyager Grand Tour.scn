@@ -1,6 +1,9 @@
-BEGIN_DESC
-Use the TransX to fly the Voyager Grand Tour.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>ボイジャーのグランド・ツアー</h1>
+<p>TransXを使用して、ボイジャー探査機のグランド・ツアーを再現しよう。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol
