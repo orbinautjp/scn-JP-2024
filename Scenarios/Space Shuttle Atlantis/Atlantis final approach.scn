@@ -1,11 +1,14 @@
 BEGIN_HYPERDESC
-<h1>Space Shuttle final approach</h1>
-<p>Final approach to SLF runway 33 at the Kennedy Space Center.</p>
-<p>Initially pitch down to -15ｰ. Use the PAPI indicators ahead of the runway for glideslope adjustment.
-Use the split rudder speed brake (Ctrl-B) to bleed off airspeed.</p>
-<p>On approach, slowly raise the nose to touch down with an AOA of approx. +10ｰ.
-Lower your gear during the final flare-up, about 10 seconds before touchdown.
-Touchdown speed is approximately 100 m/s.</p>
+<body style="font-family: Meiryo;">
+<h1>滑走路へのアプローチ</h1>
+<p>ケネディ宇宙センターの33番滑走路にアプローチします。</p>
+<p>ゲームを開始したら、-15°に機首を下げてください。
+滑走路近くにあるPAPIを確認して、進入角度を調整してください。</p>
+<p>Ctrl+Bを押してスピードブレーキを展開し、速度を下げてください。</p>
+<p>滑走路が近づいてきたら少しずつ機首を上げ、タッチダウンの直前に迎え角を約10°まで上げてください。</p>
+<p>機首上げ中にGを押して着陸脚を展開し、10秒後に着陸するようにしてください。</p>
+<p>タッチダウン時の速度の目安は100 m/sです。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

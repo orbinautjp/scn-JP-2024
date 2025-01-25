@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Atlantis reentry scenario 1</h1>
-<p>Crossing the north American west coast line, 4500km to Cape Canaveral.</p>
+<body style="font-family: Meiryo;">
+<h1>再突入 1</h1>
+<p>北米西海岸を横切って、ケープ・カナヴェラルまで4500kmの位置です。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

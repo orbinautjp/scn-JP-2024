@@ -1,11 +1,11 @@
 BEGIN_HYPERDESC
-<h1>ISS approach</h1>
-<p>Lined up for docking at the International Space Station.</p>
-<p>Watch the approach path indicator on your left MFD and the HUD approach markers
-while closing in on the ISS.</p>
-<p>Use your linear RCS (Reaction control system) thrusters to keep aligned with the
-approach path.</p>
-<p>Your final closing velocity should be less than 0.1 m/s.</p>
+<body style="font-family: Meiryo;">
+<h1>ISSへのアプローチ</h1>
+<p>国際宇宙ステーションのドッキングポートの軸線上に、Shuttle-A貨物船が待機しています。</p>
+<p>左MFDとHUDの表示を確認しながら、ISSに接近しましょう。</p>
+<p>RCS（Reaction control system = 姿勢制御システム）をLINモードにして、針路を修正してください。</p>
+<p>ドッキングポートに接触するときの速度は、0.1 m/sを超えないようにしましょう。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

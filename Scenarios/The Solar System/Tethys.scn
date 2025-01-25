@@ -1,8 +1,10 @@
 BEGIN_HYPERDESC
-<h1>Tethys</h1>
-<p>Saturn moons: Tethys with large impact crater. Now with new textures from
-the Cassini mission.</p>
-<p>The orange object in the background is Titan, another of Saturn's moons.</p>
+<body style="font-family: Meiryo;">
+<h1>テティス</h1>
+<p>土星の衛星、テティスです。大きなクレーターが特徴です。<br>
+カッシーニミッションで撮影された画像を、地表テクスチャに使用しています。</p>
+<p>背後に見えるオレンジ色の天体は、もうひとつの土星の衛星、タイタンです。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

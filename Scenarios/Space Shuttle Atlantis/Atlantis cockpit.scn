@@ -1,11 +1,11 @@
 BEGIN_HYPERDESC
-<h1>Atlantis cockpit</h1>
-<p>A virtual cockpit for Space Shuttle Atlantis with partial functionality.</p>
-<p>Have a look around the flight deck and enjoy the view of Earth through the windows.</p>
-<p>Commander, pilot and payload specialist positions can be switched with
-Ctrl-LeftArrow, Ctrl-RightArrow and Ctrl-DownArrow.</p>
-From the payload specialist position, you also have access to panel R13L which implements
-payload bay door operations.</p>
+<body style="font-family: Meiryo;">
+<h1>アトランティスのコクピット</h1>
+<p>スペースシャトル・アトランティスの3Dコクピットです。一部のボタンのみ動作します。</p>
+<p>フライトデッキを探索して、窓から見える地球を鑑賞しましょう。</p>
+<p>Ctrl+矢印キーで座席を移動、Ctrl+Alt+矢印キーでカメラを移動します。</p>
+<p>コクピット右後方のペイロード・スペシャリストの位置にはR13Lパネルが存在し、ペイロードベイドアを操作できます。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

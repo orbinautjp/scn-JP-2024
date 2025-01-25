@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Rhea</h1>
-<p>Saturn moons: Rhea. Now with new textures from the Cassini mission.</p>
+<body style="font-family: Meiryo;">
+<h1>レア</h1>
+<p>土星の衛星、レアです。
+カッシーニミッションのおかげで、新しいテクスチャが利用できるようになりました。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

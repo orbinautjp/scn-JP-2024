@@ -1,6 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Iapetus</h1>
-<p>Saturn moons: Iapetus. Now with new textures from the Cassini mission.</p>
+<body style="font-family: Meiryo;">
+<h1>イアペトゥス</h1>
+<p>土星の衛星、イアペトゥスです。
+カッシーニミッションのおかげで、新しいテクスチャが利用できるようになりました。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

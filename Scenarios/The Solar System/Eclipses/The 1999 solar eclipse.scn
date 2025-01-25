@@ -1,6 +1,9 @@
-BEGIN_DESC
-Orbiter now has improved ephemeris calculations for planetary and lunar positions. Eclipses finally occur at the correct times!
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>1999年の日食</h1>
+<p>惑星・衛星の位置予測のための計算方法（天体暦）が改良され、Orbiterでも正しい時刻に日食が起こるようになりました。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
   System Sol

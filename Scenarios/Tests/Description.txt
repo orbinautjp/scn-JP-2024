@@ -1,6 +1,7 @@
 BEGIN_HYPERDESC
 <body style="font-family: Meiryo;">
 <h1>テスト</h1>
-<p>Orbiterのプログラムの安定性を検証するためのシナリオです。</p>
+<p>Orbiterのプログラムの安定性を検証するためのシナリオです。<br>
+このフォルダのシナリオは翻訳されていません。</p>
 </body>
 END_HYPERDESC

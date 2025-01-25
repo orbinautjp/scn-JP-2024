@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Atlantis reentry scenario 2</h1>
-<p>Preparing for final approach, 1500km to touchdown.</p>
+<body style="font-family: Meiryo;">
+<h1>再突入 2</h1>
+<p>滑走路まで残り1500km、アプローチの準備をしてください。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

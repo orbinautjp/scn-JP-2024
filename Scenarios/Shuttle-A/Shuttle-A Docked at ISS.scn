@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Shuttle-A: Docked at ISS</h1>
-<p>Begin this simulation in a Shuttle-A class vessel docked to the ISS.</p>
+<body style="font-family: Meiryo;">
+<h1>Shuttle-AとISS</h1>
+<p>Shuttle-AがISSにドッキングした状態でゲームを開始します。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

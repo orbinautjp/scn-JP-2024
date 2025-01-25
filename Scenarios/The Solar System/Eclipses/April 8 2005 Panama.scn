@@ -1,6 +1,9 @@
-BEGIN_DESC
-This is a view from Panama of the total / annular hybrid eclipse on Friday, April 8.
-END_DESC
+BEGIN_HYPERDESC
+<body style="font-family: Meiryo;">
+<h1>2005年4月8日、パナマ</h1>
+<p>2005年4月8日、パナマで観測された金環皆既日食です。</p>
+</body>
+END_HYPERDESC
 
 BEGIN_ENVIRONMENT
 System Sol

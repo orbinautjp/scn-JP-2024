@@ -1,9 +1,10 @@
 BEGIN_HYPERDESC
-<h1>Atlantis launch</h1>
-<p>Start this scenario with Space Shuttle Atlantis on Launchpad 39B ready for liftoff</p>
-<p>The payload consists of a Carina crew rescue vehicle prototype. It can be used for
-orbital payload release and recapture exercises.</p>
-Contains the latest simulation state.
+<body style="font-family: Meiryo;">
+<h1>人工衛星の打ち上げ</h1>
+<p>LC39B発射台から、人工衛星を搭載したアトランティスを打ち上げます。</p>
+<p>この試作型Carina救命艇は、軌道上でのペイロードの放出と回収の訓練のために使用されます。</p>
+<p>訳注：Ctrl+スペースキーを押してAscent Autopilotを選択。Launchをクリックすると打ち上げを開始します。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

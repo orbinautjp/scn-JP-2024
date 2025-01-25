@@ -1,7 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Titan</h1>
-<p>Saturn moons: Titan. Now with atmosphere, cloud layer and new surface textures
-from the Cassini mission.</p>
+<body style="font-family: Meiryo;">
+<h1>タイタン</h1>
+<p>土星の衛星、タイタンです。<br>
+大気、雲、地表のテクスチャに、カッシーニミッションで撮影された画像を使用しています。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

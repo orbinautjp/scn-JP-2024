@@ -1,7 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Light and darkness</h1>
-<p>Sunrise in space: See the International Space Station emerge from Earth's shadow.</p>
-<p>Orbiter now supports shadowing of vessels by planets.</p>
+<body style="font-family: Meiryo;">
+<h1>光と闇</h1>
+<p>国際宇宙ステーションが地球の影から出てくるところです。宇宙の夜明けです。</p>
+<p>現行のOrbiterでは、惑星の影にいる宇宙船が暗く表現されるようになっています。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

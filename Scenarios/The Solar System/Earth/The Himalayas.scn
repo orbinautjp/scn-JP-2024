@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>The Himalayas</h1>
-<p>Crossing over the roof of the world.</p>
+<body style="font-family: Meiryo;">
+<h1>ヒマラヤ山脈</h1>
+<p>世界の屋根、ヒマラヤ山脈上空を通過します。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
