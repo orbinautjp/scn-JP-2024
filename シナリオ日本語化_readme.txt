@@ -1,6 +1,6 @@
 README.mdと同じ内容です。markdownが開けない人のために置いておきます。
 
-# scn-localization-JP
+# scn-JP-2024
 
 Orbiter Space Flight Simulator 2024のシナリオファイルを日本語化するプロジェクトです。
 

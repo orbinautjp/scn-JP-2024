@@ -1,4 +1,4 @@
-# scn-localization-JP
+# scn-JP-2024
 
 Orbiter Space Flight Simulator 2024のシナリオファイルを日本語化するプロジェクトです。
 
