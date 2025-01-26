@@ -1,7 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Playback: Atlantis undocking</h1>
-<p>Watch Space Shuttle Atlantis undocking from the International Space Station
-and preparing for a return to Earth.</p>
+<body style="font-family: Meiryo;">
+<h1>リプレイ：アトランティス ドッキング解除</h1>
+<p>スペースシャトル・アトランティスが国際宇宙ステーションとのドッキングを解除し、地球への帰還に向けて準備を開始します。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

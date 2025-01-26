@@ -1,8 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Playback: Glider in orbit 1</h1>
-<p>The Delta-glider performs some attitude maneuvers in orbit, using its
-Reaction Control System. Note how the rotation oscillates between different
-vessel axes due to its inertia properties.</p>
+<body style="font-family: Meiryo;">
+<h1>リプレイ：軌道上のデルタグライダー 1</h1>
+<p>デルタグライダーが軌道上でRCSを噴射して姿勢変更マニューバを実行します。慣性モーメントによって、それぞれの軸で宇宙船の回転が変動することがわかります。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
