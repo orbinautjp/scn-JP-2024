@@ -7,8 +7,7 @@ BEGIN_HYPERDESC
   これが実現されるのは、軌道傾斜角が63.4°、もしくは116.6°のときです。<br>
   これらの軌道では、一般的に近地点引数は南半球に設定され、軌道を1周するごとに北半球上空の遠地点近くに11時間ほど留まることになります。<br>
   これによって、高緯度地域の地表を長時間カバーすることができます。<br>
-  （出典：Orbital, Mechanics, <a href="http://www.braeunig.us/space/orbmech.htm" target="_blank" rel="noopener noreferrer">
-  http://www.braeunig.us/space/orbmech.htm</a>）
+  （出典：Orbital, Mechanics, http://www.braeunig.us/space/orbmech.htm）
 </p>
 <p>このシナリオでは、1日にそれぞれ1度ずつ北米と中央アジアの上空に到達する軌道に、ドラゴンフライ宇宙船が配置されています。</p>
 </body>
