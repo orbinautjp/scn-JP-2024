@@ -30,6 +30,12 @@ https://www.orbiter-forum.com/members/nikogori.13302/
 
 ## 注意点
 
+### .vscodeフォルダ
+
+.vscodeと書かれたフォルダがありますが、削除していただいて問題ありません。
+
+Orbiterの問題として、文字コードをShift_JISにしないと日本語が表示できないということがあり、VSCodeでの編集作業に必要なので入れています。
+
 ### Windows以外の環境
 
 MacおよびLinuxでWine等を使って動作させている場合、日本語ファイルが正常に表示されない可能性があります。  
