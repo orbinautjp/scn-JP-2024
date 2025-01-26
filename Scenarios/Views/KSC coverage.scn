@@ -1,7 +1,8 @@
 BEGIN_HYPERDESC
-<h1>KSC coverage</h1>
-<p>The area of high-resolution texture coverage around the Kennedy Space Center
-has been extended.</p>
+<body style="font-family: Meiryo;">
+<h1>ケネディ宇宙センター 高解像度テクスチャ</h1>
+<p>ケネディ宇宙センター周辺において、高解像度テクスチャの適用範囲が広くなりました。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

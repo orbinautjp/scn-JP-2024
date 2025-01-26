@@ -1,6 +1,8 @@
 BEGIN_HYPERDESC
-<h1>Atmospheric haze</h1>
-<p>Improved rendering of atmospheric effects from orbit.</p>
+<body style="font-family: Meiryo;">
+<h1>大気のかすみ</h1>
+<p>軌道上から見える大気圏の表現が向上しました。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

@@ -1,7 +1,16 @@
 BEGIN_HYPERDESC
-<h1>DG stunts (Recording tutorial)</h1>
-<p>A small tutorial introducing Orbiter's flight recording and playback capabilities.</p>
-<p>(And a lively tour of the Kennedy Space Center with a DG spaceplane.)</p>
+<body style="font-family: Meiryo;">
+<h1>リプレイ機能</h1>
+<p>Orbiterでリプレイを保存する方法について紹介します。
+サンプルとして、ケネディ宇宙センターでデルタグライダーが曲芸飛行を披露します。</p>
+<p>リプレイ中、宇宙船の操縦はできませんが、カメラの切り替えなどは可能です。</p>
+<p>Ctrl+Cを押すとリプレイを終了します。リプレイを終了すると、宇宙船を操縦できるようになります。</p>
+<p>Ctrl+F5でダイアログを開きます。
+Recをクリックすると記録を開始します。STOPで終了します。</p>
+<p>保存済みのリプレイはPlaybackフォルダに入っています。<br>
+再生中にCtrl+F5でダイアログを開きます。Editorをクリックすると編集画面が開き、字幕を挿入することができます。</p>
+<p>訳注：日本語の字幕は表示できません。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

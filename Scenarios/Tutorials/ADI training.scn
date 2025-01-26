@@ -1,7 +1,9 @@
 BEGIN_HYPERDESC
-<h1>ADI instrument training</h1>
-<p>An introduction to the Attitude Director Indicator (ADI) instrument in the Shuttle-A.</p>
-<p>Please pay attention - there will be a test ;-)</p>
+<body style="font-family: Meiryo;">
+<h1>ADIのトレーニング</h1>
+<p>Shuttle-AのADI（Attitude Director Indicator = 姿勢指示器）について紹介します。</p>
+<p>説明をちゃんと聞いてください……試験に出ますよ！</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT

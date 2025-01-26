@@ -1,8 +1,9 @@
 BEGIN_HYPERDESC
-<h1>Space Shuttle final approach</h1>
-<p>This tutorial scenario contains a playback of Space Shuttle Atlantis on final
-approach to the landing facility at Kennedy Space Center.</p>
-<p>Playback duration: 3min 55sec.</p>
+<body style="font-family: Meiryo;">
+<h1>スペースシャトル 滑走路へのアプローチ</h1>
+<p>スペースシャトル・アトランティスが、ケネディ宇宙センターのシャトル着陸施設にアプローチします。</p>
+<p>再生時間は3分55秒です。</p>
+</body>
 END_HYPERDESC
 
 BEGIN_ENVIRONMENT
